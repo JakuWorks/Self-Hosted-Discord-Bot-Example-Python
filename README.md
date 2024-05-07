@@ -2,9 +2,9 @@
 
 
 ## Short Description
-This is a simple template for a self-hosted discord bot.
-This project does not contain many commands
-**This project is old (around year 2022) and its quality Does Not reflect my current skills**
+This is a simple template for a self-hosted discord bot<br>
+This project does not contain many commands<br>
+**This project is old and its quality does not reflect my current skills**
 
 
 ## Used Languages
