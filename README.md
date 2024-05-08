@@ -8,8 +8,8 @@ This project does not contain many commands<br>
 
 
 ## Used Languages
-- **Python**
-- **PowerShell**
+- Python
+- PowerShell
 
 
 ## Leant Skills
