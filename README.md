@@ -4,7 +4,7 @@
 ## Short Description
 This is a simple template for a self-hosted discord bot<br>
 This project does not contain many commands<br>
-**This project is old and its quality does not reflect my current skills**
+**This project is old (2023) and its quality does not reflect my current skills**
 
 
 ## Used Languages
