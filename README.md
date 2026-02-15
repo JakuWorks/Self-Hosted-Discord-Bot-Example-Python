@@ -37,4 +37,4 @@ This is a only template! There are only a tiny handful of commands!
 
 - **Linux & MacOs**
   - Python
-  - PowerShell *(aka. PowerShell Core)*
+  - PowerShell Core
