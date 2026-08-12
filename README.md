@@ -12,7 +12,7 @@ This project does not contain many commands<br>
 - PowerShell
 
 
-## Leant Skills
+## Learnt Skills
 - Simple Cryptography using the Crypto module
 - Simple bit/bytes operations, how padding works
 - Python Virtual Environments
